@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trvl/static/css/main.f6f07ec2.css",
+    "main.js": "/trvl/static/js/main.7324682c.js",
+    "index.html": "/trvl/index.html",
+    "main.f6f07ec2.css.map": "/trvl/static/css/main.f6f07ec2.css.map",
+    "main.7324682c.js.map": "/trvl/static/js/main.7324682c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f07ec2.css",
+    "static/js/main.7324682c.js"
+  ]
+}
